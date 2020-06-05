@@ -1,0 +1,12 @@
+--------------How to Install----------------
+1. To install required packages type "opam install lambda-term" and
+"opam install lwt"
+2. Run "make build" to build the source code, there may be a few warnings at the
+beginning, but nothing to worry about.
+3. For best performance, drag the top-left corner of the terminal to the top 
+left of your computer screen.
+4. Run "make play" to start the game
+5. You can type "done" to begin the selection phase
+6. Be sure that you click directly on the valid ">" or "<" which represent
+nodes, also avoid scrolling on the terminal as this throws off the row/column
+calculations
